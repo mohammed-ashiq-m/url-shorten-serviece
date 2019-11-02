@@ -7,7 +7,7 @@ html {
   background: darkslategrey !important;
 }
 .user_card {
-  height: 400px;
+  height: 100%Px;
   width: 350px;
   margin-top: auto;
   margin-bottom: auto;
@@ -69,10 +69,11 @@ html {
   background-color: #c0392b !important;
 }
 .form-control{
-  width: 135%;
+  width: 130%;
+
 }
 .button{
-  margin-left: 70px;
+  margin-left: 60px;
 }
 .button:hover{
   color: steelblue;
