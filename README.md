@@ -10,3 +10,23 @@ A url shortener written in Nodejs with the help of *MongoDB* as a database,*Expr
 - NodeJS
 - MongoDB
 - Git
+### Running:
+To run the project Install all the dependencies given here :-
+
+- Express
+- Mongoose
+- hasha
+- body-parser
+```
+npm install
+```
+After installing all the dependencies start the server -
+
+#####Run app.js file
+```
+node app.js
+```
+######Now you can see this project in http://localhost:3000/
+
+## Author
+* Mohammed Ashiq M -- [M-Ashiq-M](https://github.com/mohammed-ashiq-m)

@@ -31,7 +31,7 @@ $("#linkForm").submit(function(event) {
         type: 'post',
         success: function(data) {
             console.log(data);
-            $("#info").html(+data);
+            $("#info").html(data);
         }
     });
 });
