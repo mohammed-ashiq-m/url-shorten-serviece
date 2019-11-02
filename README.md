@@ -22,7 +22,7 @@ npm install
 ```
 After installing all the dependencies start the server -
 
-#####Run app.js file
+####Run app.js file :
 ```
 node app.js
 ```
